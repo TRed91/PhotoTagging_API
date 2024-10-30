@@ -14,7 +14,8 @@
   "scripts": {
     "test": "NODE_ENV=test && jest",
     "dev": "NODE_ENV=development && node app.js",
-    "watch": "NODE_ENV=development && node --watch app.js"
+    "watch": "NODE_ENV=development && node --watch app.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
